@@ -1,6 +1,8 @@
 # Hospital-Emergency-Room-Dashboard
  I designed a hospital emergency room dashboard to monitor patient status, manage resources, and streamline critical decision-making processes.
- 
+
+ ## Dataset Link:- 
+ <a href="https://github.com/daminiraysing/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20ER_Data.xlsx">Dataset</a>
 ## Dashboard Link:-
 <a href="https://github.com/user-attachments/assets/750cf9d5-658c-4698-8b4a-b872e8ffe1b1">Dashboard Link</a>
 
