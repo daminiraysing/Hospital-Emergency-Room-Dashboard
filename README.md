@@ -2,7 +2,7 @@
  I designed a hospital emergency room dashboard to monitor patient status, manage resources, and streamline critical decision-making processes.
  
 ## Dashboard Link:-
- https://github.com/user-attachments/assets/750cf9d5-658c-4698-8b4a-b872e8ffe1b1 
+<a href="https://github.com/user-attachments/assets/750cf9d5-658c-4698-8b4a-b872e8ffe1b1">Dashboard Link</a>
 
  ## STEPS IN PROJECT
 Requirement Gathering/ Business Requirements
